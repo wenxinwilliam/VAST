@@ -3,7 +3,7 @@
 
 
 
-# VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset
+# [NIPS2023]VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset
 
 <div align=center><img src=img/radar_compare_alldata_vast.png/ width="75%" height="75%"></div>
 
