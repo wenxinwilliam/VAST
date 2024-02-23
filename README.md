@@ -186,6 +186,10 @@ sh scripts/vast/audio_captioner.sh
 
 --test_audio_sample_num
 
+--train_task
+
+--test_task
+
 --learning_rate
 
 --train_batch_size
