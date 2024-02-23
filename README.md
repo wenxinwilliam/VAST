@@ -99,11 +99,12 @@ The processed  output path should be as follows:
 
 ## Download  VAST-27M annotations for pretraining
 Baidu Cloud Link：https://pan.baidu.com/s/1Zn0R5vXdrVr1jN7gHxPXdQ?pwd=76fs
+
 Raw videos could be downloaded from YouTube.
 ## Download  downstream datasets annotations for finetuning
 make a dir named datasets under the main work dir.
-Baidu Cloud Link：https://pan.baidu.com/s/1dR3rJRg1ExX-lnvCsvnEvQ 
-Password：4m6s
+Baidu Cloud Link：https://pan.baidu.com/s/1dR3rJRg1ExX-lnvCsvnEvQ?pwd=4m6s 
+
 
 The processed  datasets path should be as follows:
 ```
@@ -165,8 +166,10 @@ if you want to test model, just add following two rows to the cmd:
 
 
 ## Labeling your own data use vast's captioner
-You need to prepare a folder containing all videos/images or audios,
-and a meta.json composed of [{'video_id':'09WssDay9FE_1'},{'video_id':'09WssDay9FE_2'},...],
+You need to prepare 1)a folder containing all videos/images or audios.
+
+2)a meta.json composed of [{'video_id':'09WssDay9FE_1'},{'video_id':'09WssDay9FE_2'},...]
+
 and then write the config file.
 ```
 sh scripts/vast/vision_captioner.sh
@@ -176,17 +179,29 @@ sh scripts/vast/audio_captioner.sh
 
 ## Statement of common controllable items in cmd which can overwrite config files.
 --train_vision_sample_num
+
 --test_vision_sample_num
+
 --train_audio_sample_num
+
 --test_audio_sample_num
+
 --learning_rate
+
 --train_batch_size
+
 --test_batch_size
+
 --train_epoch 
+
 --train_steps
+
 --checkpointing
+
 --frozen_vision
+
 --valid_freq
+
 --beam_size
 
 
