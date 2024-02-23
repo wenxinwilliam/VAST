@@ -76,16 +76,16 @@ The processed  pretrained_weights path should be as follows:
 make a dir named output under the main work dir.
 
 1.download vast model (optional, for finetuning)
-Baidu Cloud Link：https://pan.baidu.com/s/1uhNX2kXDOzomlQlKe3S1BQ 
-Password：8u2p
+Baidu Cloud Link：https://pan.baidu.com/s/1uhNX2kXDOzomlQlKe3S1BQ?pwd=8u2p 
+
 
 2.vision captioner (optional, for labeling images/videos)
-Baidu Cloud Link：https://pan.baidu.com/s/1rwURSDZ4RfCAw8WJzaJ2fg 
-Password：7qvh
+Baidu Cloud Link：https://pan.baidu.com/s/1rwURSDZ4RfCAw8WJzaJ2fg?pwd=7qvh 
+
 
 3.audio captioner  (optional, for labeling audios)
-Baidu Cloud Link：https://pan.baidu.com/s/1TPyZ2bUT1ehaqBCqI_hSuw 
-Password：tyfl
+Baidu Cloud Link：https://pan.baidu.com/s/1TPyZ2bUT1ehaqBCqI_hSuw?pwd=tyfl  
+
 
 The processed  output path should be as follows:
 ```
@@ -99,7 +99,6 @@ The processed  output path should be as follows:
 
 ## Download  VAST-27M annotations for pretraining
 Baidu Cloud Link：https://pan.baidu.com/s/1Zn0R5vXdrVr1jN7gHxPXdQ?pwd=76fs
-Password：76fs 
 Raw videos could be downloaded from YouTube.
 ## Download  downstream datasets annotations for finetuning
 make a dir named datasets under the main work dir.
