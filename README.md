@@ -82,13 +82,13 @@ make a dir named output under the main work dir.
 
 2.vision captioner (optional, for labeling images/videos)
 
-[Google Drive Link](https://drive.google.com/file/d/1b4C8KzwYaJYytjRyBfEd1UVZNDjUc53_/view?usp=sharing)
-[Baidu Cloud Link](https://pan.baidu.com/s/1QRLqHE8iiIYa4Ahf1bFQUA?pwd=vlkp)
+[[Google Drive Link](https://drive.google.com/file/d/1b4C8KzwYaJYytjRyBfEd1UVZNDjUc53_/view?usp=sharing)]
+[[Baidu Cloud Link](https://pan.baidu.com/s/1QRLqHE8iiIYa4Ahf1bFQUA?pwd=vlkp)]
 
 3.audio captioner  (optional, for labeling audios)
 
-[Google Drive Link](https://drive.google.com/file/d/1lv_tuv1_K-EBfutl14D1Hcc40t37pPhR/view?usp=sharing)
-[Baidu Cloud Link](https://pan.baidu.com/s/1L_MOevCxDIyrGa1NnoqFhQ?pwd=1v2n)
+[[Google Drive Link](https://drive.google.com/file/d/1lv_tuv1_K-EBfutl14D1Hcc40t37pPhR/view?usp=sharing)]
+[[Baidu Cloud Link](https://pan.baidu.com/s/1L_MOevCxDIyrGa1NnoqFhQ?pwd=1v2n)]
 
 The processed  output path should be as follows:
 ```
@@ -102,15 +102,15 @@ The processed  output path should be as follows:
 
 ## Download  VAST-27M annotations for pretraining
 
-[Google Drive Link](https://pan.baidu.com/s/1uhNX2kXDOzomlQlKe3S1BQ?pwd=8u2p)
-[Baidu Cloud Link](https://pan.baidu.com/s/1Zn0R5vXdrVr1jN7gHxPXdQ?pwd=76fs)
+[[Google Drive Link](https://pan.baidu.com/s/1uhNX2kXDOzomlQlKe3S1BQ?pwd=8u2p)]
+[[Baidu Cloud Link](https://pan.baidu.com/s/1Zn0R5vXdrVr1jN7gHxPXdQ?pwd=76fs)]
 
 Raw videos could be downloaded from YouTube.
 ## Download  downstream datasets annotations for finetuning
 make a dir named datasets under the main work dir.
 
-[Google Drive Link](https://drive.google.com/file/d/1bOLUbbnPTgUp_Nc0PgORKC-174CwgwPm/view?usp=sharing)
-[Baidu Cloud Link](https://pan.baidu.com/s/1sMeX7LBSSI-ODOmq5opsag?pwd=wxht)
+[[Google Drive Link](https://drive.google.com/file/d/1bOLUbbnPTgUp_Nc0PgORKC-174CwgwPm/view?usp=sharing)]
+[[Baidu Cloud Link](https://pan.baidu.com/s/1sMeX7LBSSI-ODOmq5opsag?pwd=wxht)]
 
 
 The processed  datasets path should be as follows:
