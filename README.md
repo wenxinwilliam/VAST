@@ -77,8 +77,8 @@ make a dir named output under the main work dir.
 
 1.download vast model (optional, for finetuning)
 
-[Google Drive Link](https://drive.google.com/file/d/1ZkeZpis2Fggy4MyTFPqQj37MgPZxdJ53/view?usp=sharing)
-[Baidu Cloud Link](https://pan.baidu.com/s/18EYFsPGlqU1JdK_OIjLuow?pwd=v70h)
+[[Google Drive Link](https://drive.google.com/file/d/1ZkeZpis2Fggy4MyTFPqQj37MgPZxdJ53/view?usp=sharing)]
+[[Baidu Cloud Link](https://pan.baidu.com/s/18EYFsPGlqU1JdK_OIjLuow?pwd=v70h)]
 
 2.vision captioner (optional, for labeling images/videos)
 
