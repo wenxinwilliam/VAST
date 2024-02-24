@@ -102,7 +102,7 @@ The processed  output path should be as follows:
 
 ## Download  VAST-27M annotations for pretraining
 
-[[Google Drive Link](https://pan.baidu.com/s/1uhNX2kXDOzomlQlKe3S1BQ?pwd=8u2p)]
+[[Google Drive Link](https://drive.google.com/drive/folders/14Y6S9hGm-YbkA8VlCgw4xxEB2fpCAURT?usp=sharing)]
 [[Baidu Cloud Link](https://pan.baidu.com/s/1Zn0R5vXdrVr1jN7gHxPXdQ?pwd=76fs)]
 
 Raw videos could be downloaded from YouTube.
