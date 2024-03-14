@@ -238,3 +238,8 @@ If you find this code useful for your research, please consider citing:
 
 This project is released under the [MIT license](LICENSE)
 
+
+## Third-Party Licenses
+
+For the full list of third-party licenses used in this project, please see the [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md) file.
+
