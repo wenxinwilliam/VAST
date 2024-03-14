@@ -233,3 +233,8 @@ If you find this code useful for your research, please consider citing:
 }
 ```
 
+
+## License
+
+This project is released under the [MIT license](LICENSE)
+
